@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\SQLCon_Console\SQLCon_Console\bin\Debug\SQLCon_Console.exe.config
+C:\Users\Admin\source\repos\SQLCon_Console\SQLCon_Console\bin\Debug\SQLCon_Console.exe
+C:\Users\Admin\source\repos\SQLCon_Console\SQLCon_Console\bin\Debug\SQLCon_Console.pdb
+C:\Users\Admin\source\repos\SQLCon_Console\SQLCon_Console\obj\Debug\SQLCon_Console.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SQLCon_Console\SQLCon_Console\obj\Debug\SQLCon_Console.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SQLCon_Console\SQLCon_Console\obj\Debug\SQLCon_Console.exe
+C:\Users\Admin\source\repos\SQLCon_Console\SQLCon_Console\obj\Debug\SQLCon_Console.pdb

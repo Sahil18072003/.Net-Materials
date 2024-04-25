@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\StaticKeyword\bin\Debug\net5.0\StaticKeyword.exe
+C:\Users\Admin\source\repos\StaticKeyword\bin\Debug\net5.0\StaticKeyword.deps.json
+C:\Users\Admin\source\repos\StaticKeyword\bin\Debug\net5.0\StaticKeyword.runtimeconfig.json
+C:\Users\Admin\source\repos\StaticKeyword\bin\Debug\net5.0\StaticKeyword.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\StaticKeyword\bin\Debug\net5.0\StaticKeyword.dll
+C:\Users\Admin\source\repos\StaticKeyword\bin\Debug\net5.0\StaticKeyword.pdb
+C:\Users\Admin\source\repos\StaticKeyword\obj\Debug\net5.0\StaticKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\StaticKeyword\obj\Debug\net5.0\StaticKeyword.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\StaticKeyword\obj\Debug\net5.0\StaticKeyword.AssemblyInfo.cs
+C:\Users\Admin\source\repos\StaticKeyword\obj\Debug\net5.0\StaticKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\StaticKeyword\obj\Debug\net5.0\StaticKeyword.dll
+C:\Users\Admin\source\repos\StaticKeyword\obj\Debug\net5.0\refint\StaticKeyword.dll
+C:\Users\Admin\source\repos\StaticKeyword\obj\Debug\net5.0\StaticKeyword.pdb
+C:\Users\Admin\source\repos\StaticKeyword\obj\Debug\net5.0\StaticKeyword.genruntimeconfig.cache
+C:\Users\Admin\source\repos\StaticKeyword\obj\Debug\net5.0\ref\StaticKeyword.dll

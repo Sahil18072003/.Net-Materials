@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Namespaces\bin\Debug\net5.0\Namespaces.exe
+C:\Users\Admin\source\repos\Namespaces\bin\Debug\net5.0\Namespaces.deps.json
+C:\Users\Admin\source\repos\Namespaces\bin\Debug\net5.0\Namespaces.runtimeconfig.json
+C:\Users\Admin\source\repos\Namespaces\bin\Debug\net5.0\Namespaces.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Namespaces\bin\Debug\net5.0\Namespaces.dll
+C:\Users\Admin\source\repos\Namespaces\bin\Debug\net5.0\Namespaces.pdb
+C:\Users\Admin\source\repos\Namespaces\obj\Debug\net5.0\Namespaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Namespaces\obj\Debug\net5.0\Namespaces.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Namespaces\obj\Debug\net5.0\Namespaces.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Namespaces\obj\Debug\net5.0\Namespaces.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Namespaces\obj\Debug\net5.0\Namespaces.dll
+C:\Users\Admin\source\repos\Namespaces\obj\Debug\net5.0\refint\Namespaces.dll
+C:\Users\Admin\source\repos\Namespaces\obj\Debug\net5.0\Namespaces.pdb
+C:\Users\Admin\source\repos\Namespaces\obj\Debug\net5.0\Namespaces.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Namespaces\obj\Debug\net5.0\ref\Namespaces.dll

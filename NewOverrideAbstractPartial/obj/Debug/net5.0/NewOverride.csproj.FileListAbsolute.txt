@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\NewOverrideAbstractPartial\bin\Debug\net5.0\NewOverride.exe
+C:\Users\Admin\source\repos\NewOverrideAbstractPartial\bin\Debug\net5.0\NewOverride.deps.json
+C:\Users\Admin\source\repos\NewOverrideAbstractPartial\bin\Debug\net5.0\NewOverride.runtimeconfig.json
+C:\Users\Admin\source\repos\NewOverrideAbstractPartial\bin\Debug\net5.0\NewOverride.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\NewOverrideAbstractPartial\bin\Debug\net5.0\NewOverride.dll
+C:\Users\Admin\source\repos\NewOverrideAbstractPartial\bin\Debug\net5.0\NewOverride.pdb
+C:\Users\Admin\source\repos\NewOverrideAbstractPartial\obj\Debug\net5.0\NewOverride.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\NewOverrideAbstractPartial\obj\Debug\net5.0\NewOverride.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\NewOverrideAbstractPartial\obj\Debug\net5.0\NewOverride.AssemblyInfo.cs
+C:\Users\Admin\source\repos\NewOverrideAbstractPartial\obj\Debug\net5.0\NewOverride.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\NewOverrideAbstractPartial\obj\Debug\net5.0\NewOverride.dll
+C:\Users\Admin\source\repos\NewOverrideAbstractPartial\obj\Debug\net5.0\refint\NewOverride.dll
+C:\Users\Admin\source\repos\NewOverrideAbstractPartial\obj\Debug\net5.0\NewOverride.pdb
+C:\Users\Admin\source\repos\NewOverrideAbstractPartial\obj\Debug\net5.0\NewOverride.genruntimeconfig.cache
+C:\Users\Admin\source\repos\NewOverrideAbstractPartial\obj\Debug\net5.0\ref\NewOverride.dll

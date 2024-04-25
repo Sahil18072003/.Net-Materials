@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Nullable\bin\Debug\net5.0\NullableType.exe
+C:\Users\Admin\source\repos\Nullable\bin\Debug\net5.0\NullableType.deps.json
+C:\Users\Admin\source\repos\Nullable\bin\Debug\net5.0\NullableType.runtimeconfig.json
+C:\Users\Admin\source\repos\Nullable\bin\Debug\net5.0\NullableType.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Nullable\bin\Debug\net5.0\NullableType.dll
+C:\Users\Admin\source\repos\Nullable\bin\Debug\net5.0\NullableType.pdb
+C:\Users\Admin\source\repos\Nullable\obj\Debug\net5.0\NullableType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Nullable\obj\Debug\net5.0\NullableType.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Nullable\obj\Debug\net5.0\NullableType.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Nullable\obj\Debug\net5.0\NullableType.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Nullable\obj\Debug\net5.0\NullableType.dll
+C:\Users\Admin\source\repos\Nullable\obj\Debug\net5.0\refint\NullableType.dll
+C:\Users\Admin\source\repos\Nullable\obj\Debug\net5.0\NullableType.pdb
+C:\Users\Admin\source\repos\Nullable\obj\Debug\net5.0\NullableType.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Nullable\obj\Debug\net5.0\ref\NullableType.dll

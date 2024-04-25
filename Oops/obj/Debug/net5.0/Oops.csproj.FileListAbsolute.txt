@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\Oops\obj\Debug\net5.0\Oops.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Oops\obj\Debug\net5.0\Oops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Oops\obj\Debug\net5.0\Oops.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Oops\obj\Debug\net5.0\Oops.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Oops\obj\Debug\net5.0\Oops.csproj.CoreCompileInputs.cache
