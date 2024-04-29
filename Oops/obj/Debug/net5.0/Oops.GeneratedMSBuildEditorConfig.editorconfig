@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Oops
-build_property.ProjectDir = D:\Github\DotNet\.Net-Materials\Oops\
+build_property.ProjectDir = C:\Users\Admin\source\repos\Oops\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

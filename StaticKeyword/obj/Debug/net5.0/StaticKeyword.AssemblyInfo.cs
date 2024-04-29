@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StaticKeyword")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32c281968641012d0aea723b0eae6c13d43dba97")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("StaticKeyword")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StaticKeyword")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
