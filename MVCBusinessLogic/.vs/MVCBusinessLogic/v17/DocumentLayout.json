@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\DotNet\\.Net-Materials\\MVCBusinessLogic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94E41197-9A19-46D9-AAEF-EC5739D23603}|MVCBusinessLogic\\MVCBusinessLogic.csproj|d:\\github\\dotnet\\.net-materials\\mvcbusinesslogic\\mvcbusinesslogic\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{94E41197-9A19-46D9-AAEF-EC5739D23603}|MVCBusinessLogic\\MVCBusinessLogic.csproj|solutionrelative:mvcbusinesslogic\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E654BD9-5AB1-46EA-8AA4-9F3CE4405451}|MVCBusinessLogic.library\\MVCBusinessLogic.library.csproj|d:\\github\\dotnet\\.net-materials\\mvcbusinesslogic\\mvcbusinesslogic.library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E654BD9-5AB1-46EA-8AA4-9F3CE4405451}|MVCBusinessLogic.library\\MVCBusinessLogic.library.csproj|solutionrelative:mvcbusinesslogic.library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6167B80-7965-4777-9370-4050D6D87A0A}|MVCNusinessLogic.DbConnection\\MVCBusinessLogic.DbConnection.csproj|d:\\github\\dotnet\\.net-materials\\mvcbusinesslogic\\mvcnusinesslogic.dbconnection\\mvcbusinesslogic.dbconnection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D6167B80-7965-4777-9370-4050D6D87A0A}|MVCNusinessLogic.DbConnection\\MVCBusinessLogic.DbConnection.csproj|solutionrelative:mvcnusinesslogic.dbconnection\\mvcbusinesslogic.dbconnection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6167B80-7965-4777-9370-4050D6D87A0A}|MVCNusinessLogic.DbConnection\\MVCBusinessLogic.DbConnection.csproj|d:\\github\\dotnet\\.net-materials\\mvcbusinesslogic\\mvcnusinesslogic.dbconnection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6167B80-7965-4777-9370-4050D6D87A0A}|MVCNusinessLogic.DbConnection\\MVCBusinessLogic.DbConnection.csproj|solutionrelative:mvcnusinesslogic.dbconnection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Github\\DotNet\\.Net-Materials\\MVCBusinessLogic\\MVCBusinessLogic\\Web.config",
+              "RelativeDocumentMoniker": "MVCBusinessLogic\\Web.config",
+              "ToolTip": "D:\\Github\\DotNet\\.Net-Materials\\MVCBusinessLogic\\MVCBusinessLogic\\Web.config",
+              "RelativeToolTip": "MVCBusinessLogic\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-29T10:30:47.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MVCBusinessLogic.DbConnection.csproj",
+              "DocumentMoniker": "D:\\Github\\DotNet\\.Net-Materials\\MVCBusinessLogic\\MVCNusinessLogic.DbConnection\\MVCBusinessLogic.DbConnection.csproj",
+              "RelativeDocumentMoniker": "MVCNusinessLogic.DbConnection\\MVCBusinessLogic.DbConnection.csproj",
+              "ToolTip": "D:\\Github\\DotNet\\.Net-Materials\\MVCBusinessLogic\\MVCNusinessLogic.DbConnection\\MVCBusinessLogic.DbConnection.csproj",
+              "RelativeToolTip": "MVCNusinessLogic.DbConnection\\MVCBusinessLogic.DbConnection.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-29T10:27:56.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet\\.Net-Materials\\MVCBusinessLogic\\MVCNusinessLogic.DbConnection\\Program.cs",
+              "RelativeDocumentMoniker": "MVCNusinessLogic.DbConnection\\Program.cs",
+              "ToolTip": "D:\\Github\\DotNet\\.Net-Materials\\MVCBusinessLogic\\MVCNusinessLogic.DbConnection\\Program.cs",
+              "RelativeToolTip": "MVCNusinessLogic.DbConnection\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T10:21:29.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\DotNet\\.Net-Materials\\MVCBusinessLogic\\MVCBusinessLogic.library\\Program.cs",
+              "RelativeDocumentMoniker": "MVCBusinessLogic.library\\Program.cs",
+              "ToolTip": "D:\\Github\\DotNet\\.Net-Materials\\MVCBusinessLogic\\MVCBusinessLogic.library\\Program.cs",
+              "RelativeToolTip": "MVCBusinessLogic.library\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T10:09:35.611Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
